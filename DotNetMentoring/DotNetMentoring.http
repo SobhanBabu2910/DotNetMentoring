@@ -1,0 +1,6 @@
+@DotNetMentoring_HostAddress = http://localhost:5019
+
+GET {{DotNetMentoring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
